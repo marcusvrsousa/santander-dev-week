@@ -8,6 +8,7 @@ Java RESTful API criada para a Santander Dev Week.
 - OpenAPI (Swagger): Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
 - Railway: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
 
+## Diagrama de Classes
 
 ```mermaid
 classDiagram
